@@ -1,0 +1,7 @@
+{
+  "name": "Stoicker - Encrypted Ephemeral Messaging",
+  "description": "A high-security, split-screen encrypted communication platform featuring AI-powered virus scanning, phishing detection, and ephemeral data management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
